@@ -1,4 +1,4 @@
-##ReactJS SPA Example
+## ReactJS SPA Example
 
 ReactJS로 공부해 본 간단한 SPA(Single Page Application)입니다.
 <br/>
